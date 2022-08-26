@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum Kyrgyzstan {
+public enum Kyrgyzstan {
+    BATKEN,OSH,JALAL_ABAT,YSSYK_KOL,NARYN,TALAS,CHUI
 }
+
