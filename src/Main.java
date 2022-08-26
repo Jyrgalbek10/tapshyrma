@@ -23,6 +23,9 @@ public class Main {
             case CHUI:
                 System.out.println("Bishkek");
                 break;
+            case TALAS:
+                System.out.println("Manas");
+                break;
         }
 
     }
